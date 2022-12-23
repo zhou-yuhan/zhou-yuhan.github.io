@@ -10,7 +10,7 @@ locale                   : "cn-PRC"
 title                    : "Yuhan Zhou"
 title_separator          : "-"
 name                     : &name "Yuhan Zhou"
-description              : &description "sleep hard"
+description              : &description "sleep and freedom"
 url                      : https://zhou-yuhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhou-yuhan/zhou-yuhan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuhan Zhou (周裕涵)"
   avatar           : "profile.jpg"
-  bio              : "sleep hard"
+  bio              : "sleep and freedom"
   location         : "Beijing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -106,12 +106,12 @@ author:
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/14338580/humphreychou?tab=profile"
+  stackoverflow    : "https://stackoverflow.com/users/14338580/humphreychou"
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/ChouHumphrey"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
