@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-compnet-fall
 venue: "Peking University, "
-date: 2022
+date: 2022-09-4
 location: "Beijing, China"
 ---
 
