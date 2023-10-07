@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the School of Computer Science at Peking University, advised by Prof. [Chenren Xu](https://soar.group/chenren/). My research interests are wireless networks and mobile computing systems, including real-time streaming, 5G/6G network architectures.
+I am a first-year Ph.D. student at the School of Computer Science at Peking University, advised by Prof. [Chenren Xu](https://soar.group/chenren/). My research interests are wireless networks and mobile computing systems, especially emerging video streaming applications (e.g. RTC, VR) cooperating with next-generation wireless networks (e.g. 5G/6G network architectures).
 
 __Email:__ zhouyuhan[AT]pku[DOT]edu[DOT]cn
 
