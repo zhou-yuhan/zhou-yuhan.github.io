@@ -13,7 +13,7 @@ I am a first-year Ph.D. student at the School of Computer Science at Peking Univ
 __Email:__ zhouyuhan[AT]pku[DOT]edu[DOT]cn
 
 # News
-- [12/2023] Out work on ultra-high bandwidth wireless peer-to-peer file transfer has been accepted by NSDI'24!
+- [12/2023] Our work on ultra-high bandwidth wireless peer-to-peer file transfer has been accepted by NSDI'24!
 - [07/2023] Our work on mobile multipath transport service for real-time streaming has been accepted by NSDI'24!
 - [06/2023] Adnois has been accepted for presentation at ASE'23!
 - [03/2023] Our work on program control flow recovery has been accepted by ToSEM!
